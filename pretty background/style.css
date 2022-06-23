@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  cursor: url('cursor/[AP]\ Alternate\ Select\ v3.0.ani')
+}
+
+.intro {
+  height: 955px;
+}
+
+
+::-webkit-scrollbar {
+	width:15px;
+}
+
+::-webkit-scrollbar-track {
+	background-color: rgba(80, 21, 182, 0.63);
+	box-shadow: 0 0 2px rgba(80, 21, 182, 0.63) inset;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: rgba(80, 21, 182, 0.63);
+	border-radius: 10px;
+}
+
